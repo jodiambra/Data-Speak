@@ -1,0 +1,10 @@
+* extract topic, sentiment using pipeline
+* cluster in the tags  
+* tokenize title and body vs answer
+    * need to tokenize answers?
+* topic pipeline for title?
+* remove datetime features 
+* remove answer id 
+* context is the answer
+* difference between question and answer model vs classification model 
+
