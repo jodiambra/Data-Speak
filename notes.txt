@@ -6,5 +6,5 @@
 * remove datetime features 
 * remove answer id 
 * context is the answer
-* difference between question and answer model vs classification model 
 
+* Take tags, run through topic pipeline or cluster after word2vec
