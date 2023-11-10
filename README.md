@@ -18,11 +18,12 @@ We used beautifulsoup to process the html in the text. We combined the title and
 ## Modeling
 
 ### LLAMA 2
-![image](https://github.com/jodiambra/Data-Speak/assets/115895428/0caa086b-f564-4682-936c-c193844fd60c)
 
 We used Llama 2, a new model designed by Meta AI. This version was released in July of 2023, and is one of the most comprehensive models available. We chose this model due to its performance, and because it is open source. 
 
 We implemented RAG (Retreival Augmented Generation), as it allows us to interact with internal knowledge bases and external customer-facing documentation. The main benefit of RAG is the access to the model's sources, ensuring that the answers given can be checked for accuracy, and therefore trusted. 
+
+![image](https://github.com/jodiambra/Data-Speak/assets/115895428/0caa086b-f564-4682-936c-c193844fd60c)
 
 
 ### Langchain
