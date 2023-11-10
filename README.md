@@ -45,6 +45,8 @@ Our model implemented a conversational retrieval chain, which retrieved our answ
 Our model was pushed to [HuggingFace](https://huggingface.co/jodiambra/llama-2-7b-finetuned-python-qa_tokenizer/tree/main), where it can be deployed using Amazon Sagemaker, Azure ML, or another paid deployment. 
 
 
+[Notebook](llama.ipynb) used to run the model. 
+
 ## Webpages
 
 ![image](https://github.com/jodiambra/Data-Speak/assets/115895428/ceee890b-27e4-4e23-92c0-8102c579024a)
